@@ -1,4 +1,4 @@
-## ☕ Cafeteria Noir 
+# ☕ Cafeteria Noir 
 Café Noir é um projeto de uma landing page focada em filmes antigos e retros. 
 <img src="./assets/gitImages/capa.png"/>
 
