@@ -31,5 +31,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖌️ Como usar
 ```bash
-    Abra o arquivo'index.html' no seu navegador com live server.
+    Abra o arquivo 'index.html' no seu navegador com live server.
 ```
